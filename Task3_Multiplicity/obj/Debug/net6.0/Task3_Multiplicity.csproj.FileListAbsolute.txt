@@ -1,0 +1,15 @@
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task3_Multiplicity/bin/Debug/net6.0/Task3_Multiplicity
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task3_Multiplicity/bin/Debug/net6.0/Task3_Multiplicity.deps.json
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task3_Multiplicity/bin/Debug/net6.0/Task3_Multiplicity.runtimeconfig.json
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task3_Multiplicity/bin/Debug/net6.0/Task3_Multiplicity.dll
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task3_Multiplicity/bin/Debug/net6.0/Task3_Multiplicity.pdb
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task3_Multiplicity/obj/Debug/net6.0/Task3_Multiplicity.csproj.AssemblyReference.cache
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task3_Multiplicity/obj/Debug/net6.0/Task3_Multiplicity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task3_Multiplicity/obj/Debug/net6.0/Task3_Multiplicity.AssemblyInfoInputs.cache
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task3_Multiplicity/obj/Debug/net6.0/Task3_Multiplicity.AssemblyInfo.cs
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task3_Multiplicity/obj/Debug/net6.0/Task3_Multiplicity.csproj.CoreCompileInputs.cache
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task3_Multiplicity/obj/Debug/net6.0/Task3_Multiplicity.dll
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task3_Multiplicity/obj/Debug/net6.0/refint/Task3_Multiplicity.dll
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task3_Multiplicity/obj/Debug/net6.0/Task3_Multiplicity.pdb
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task3_Multiplicity/obj/Debug/net6.0/Task3_Multiplicity.genruntimeconfig.cache
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task3_Multiplicity/obj/Debug/net6.0/ref/Task3_Multiplicity.dll
