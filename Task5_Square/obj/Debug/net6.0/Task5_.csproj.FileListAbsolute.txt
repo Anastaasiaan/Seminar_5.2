@@ -1,0 +1,15 @@
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task5_/bin/Debug/net6.0/Task5_
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task5_/bin/Debug/net6.0/Task5_.deps.json
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task5_/bin/Debug/net6.0/Task5_.runtimeconfig.json
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task5_/bin/Debug/net6.0/Task5_.dll
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task5_/bin/Debug/net6.0/Task5_.pdb
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task5_/obj/Debug/net6.0/Task5_.csproj.AssemblyReference.cache
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task5_/obj/Debug/net6.0/Task5_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task5_/obj/Debug/net6.0/Task5_.AssemblyInfoInputs.cache
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task5_/obj/Debug/net6.0/Task5_.AssemblyInfo.cs
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task5_/obj/Debug/net6.0/Task5_.csproj.CoreCompileInputs.cache
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task5_/obj/Debug/net6.0/Task5_.dll
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task5_/obj/Debug/net6.0/refint/Task5_.dll
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task5_/obj/Debug/net6.0/Task5_.pdb
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task5_/obj/Debug/net6.0/Task5_.genruntimeconfig.cache
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task5_/obj/Debug/net6.0/ref/Task5_.dll
