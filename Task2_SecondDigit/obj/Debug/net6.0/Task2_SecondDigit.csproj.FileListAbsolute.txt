@@ -1,0 +1,15 @@
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task2_SecondDigit/bin/Debug/net6.0/Task2_SecondDigit
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task2_SecondDigit/bin/Debug/net6.0/Task2_SecondDigit.deps.json
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task2_SecondDigit/bin/Debug/net6.0/Task2_SecondDigit.runtimeconfig.json
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task2_SecondDigit/bin/Debug/net6.0/Task2_SecondDigit.dll
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task2_SecondDigit/bin/Debug/net6.0/Task2_SecondDigit.pdb
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task2_SecondDigit/obj/Debug/net6.0/Task2_SecondDigit.csproj.AssemblyReference.cache
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task2_SecondDigit/obj/Debug/net6.0/Task2_SecondDigit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task2_SecondDigit/obj/Debug/net6.0/Task2_SecondDigit.AssemblyInfoInputs.cache
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task2_SecondDigit/obj/Debug/net6.0/Task2_SecondDigit.AssemblyInfo.cs
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task2_SecondDigit/obj/Debug/net6.0/Task2_SecondDigit.csproj.CoreCompileInputs.cache
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task2_SecondDigit/obj/Debug/net6.0/Task2_SecondDigit.dll
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task2_SecondDigit/obj/Debug/net6.0/refint/Task2_SecondDigit.dll
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task2_SecondDigit/obj/Debug/net6.0/Task2_SecondDigit.pdb
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task2_SecondDigit/obj/Debug/net6.0/Task2_SecondDigit.genruntimeconfig.cache
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task2_SecondDigit/obj/Debug/net6.0/ref/Task2_SecondDigit.dll
