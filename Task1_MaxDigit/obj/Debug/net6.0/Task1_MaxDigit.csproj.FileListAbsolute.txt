@@ -1,0 +1,15 @@
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task1_MaxDigit/bin/Debug/net6.0/Task1_MaxDigit
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task1_MaxDigit/bin/Debug/net6.0/Task1_MaxDigit.deps.json
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task1_MaxDigit/bin/Debug/net6.0/Task1_MaxDigit.runtimeconfig.json
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task1_MaxDigit/bin/Debug/net6.0/Task1_MaxDigit.dll
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task1_MaxDigit/bin/Debug/net6.0/Task1_MaxDigit.pdb
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task1_MaxDigit/obj/Debug/net6.0/Task1_MaxDigit.csproj.AssemblyReference.cache
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task1_MaxDigit/obj/Debug/net6.0/Task1_MaxDigit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task1_MaxDigit/obj/Debug/net6.0/Task1_MaxDigit.AssemblyInfoInputs.cache
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task1_MaxDigit/obj/Debug/net6.0/Task1_MaxDigit.AssemblyInfo.cs
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task1_MaxDigit/obj/Debug/net6.0/Task1_MaxDigit.csproj.CoreCompileInputs.cache
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task1_MaxDigit/obj/Debug/net6.0/Task1_MaxDigit.dll
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task1_MaxDigit/obj/Debug/net6.0/refint/Task1_MaxDigit.dll
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task1_MaxDigit/obj/Debug/net6.0/Task1_MaxDigit.pdb
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task1_MaxDigit/obj/Debug/net6.0/Task1_MaxDigit.genruntimeconfig.cache
+/Users/anastasiaan/Desktop/geekbrains/5.2. Seminar/Task1_MaxDigit/obj/Debug/net6.0/ref/Task1_MaxDigit.dll
